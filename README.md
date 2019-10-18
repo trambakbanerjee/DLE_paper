@@ -2,7 +2,7 @@ What is NPEB?
 ======
 `NPEB` is a Non-Parametric Empirical Bayes estimation framework for compound estimation in the discrete linear exponential family, which includes a wide class of discrete distributions frequently arising from modern big data applications. The proposed framework directly estimates the Bayes shrinkage factor in the generalized Robbins' formula via solving a scalable convex
 program, which is carefully developed based on a RKHS representation of the Stein's discrepancy
-measure. The new NEB estimation framework is exible for incorporating various structural constraints into the data driven rule, and provides a unified approach to compound estimation with both regular and scaled squared error losses. 
+measure. The new NEB estimation framework is flexible for incorporating various structural constraints into the data driven rule, and provides a unified approach to compound estimation with both regular and scaled squared error losses. 
 
 How to use this repository?
 -----
