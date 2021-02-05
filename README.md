@@ -10,6 +10,6 @@ This repository holds the scripts that reproduce the analysis in the paper [1]. 
 
 References
 =======
-[1.] A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family _(under review)_     
+[1.] A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family _(2020) Journal of Machine Learning Research (to appear)_     
 Banerjee, T., Liu, Q., Mukherjee, G. and Sun, W.
 
